@@ -15,3 +15,6 @@
 
 
 <!--Banner session-->	<!--Banner session-->
+
+
+https://github.com/Pleiterson/jogo-da-velha-dio/blob/dfcae7cbe5e5224d0e794352c33c1431033c8302/src/assets/projeto.gif
